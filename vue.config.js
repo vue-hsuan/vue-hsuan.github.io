@@ -1,4 +1,4 @@
 module.exports = {
     assetsDir: '',
-    outputDir: 'doc',
+    outputDir: 'docs',
 }
