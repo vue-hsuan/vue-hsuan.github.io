@@ -1,5 +1,5 @@
 <template>
     <div class="about">
-        <h1>This is an about page</h1>
+        <h1>vue hsuan 台中市 牛排</h1>
     </div>
 </template>
