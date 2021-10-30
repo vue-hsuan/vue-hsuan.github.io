@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d22d746"],{f820:function(n,c,e){"use strict";e.r(c);var t=e("7a23"),u={class:"about"},s=Object(t["g"])("h1",null,"vue hsuan 台中市 牛排",-1);function a(n,c){return Object(t["p"])(),Object(t["d"])("div",u,[s])}const d={};d.render=a;c["default"]=d}}]);
-//# sourceMappingURL=chunk-2d22d746.c6315e9e.js.map

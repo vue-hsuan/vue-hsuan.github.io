@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d22d746"],{f820:function(e,n,t){"use strict";t.r(n);var c=t("7a23"),u={class:"about"},r=Object(c["g"])("h1",null,"vue hsuan 台中市 牛排",-1);function a(e,n){var t=Object(c["v"])("router-view");return Object(c["p"])(),Object(c["d"])("div",u,[r,Object(c["g"])(t)])}var d=t("d959"),o=t.n(d);const s={},b=o()(s,[["render",a]]);n["default"]=b}}]);
+//# sourceMappingURL=chunk-2d22d746.1e42a987.js.map
