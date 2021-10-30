@@ -15,6 +15,14 @@ const routes = [
         // this generates a separate chunk (about.[hash].js) for this route
         // which is lazy-loaded when the route is visited.
         component: () => import('../views/About.vue'),
+        children: [
+            {
+                // UserProfile will be rendered inside User's <router-view>
+                // when /user/:id/profile is matched
+                path: 'profile',
+                component: () => import('@/components/Profile.vue'),
+            },
+        ],
     },
 ]
 
